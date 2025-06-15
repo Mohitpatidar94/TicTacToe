@@ -1,0 +1,71 @@
+/* Tablet (max-width: 900px) */
+@media (max-width: 900px) {
+    .inner {
+        grid-template-columns: repeat(3, 140px);
+        grid-template-rows: repeat(3, 140px);
+    }
+
+    .box {
+        font-size: 40px;
+    }
+
+    .winner {
+        font-size: 2rem;
+    }
+}
+
+/* Mobile (max-width: 600px) */
+@media (max-width: 600px) {
+    .scoreboard {
+     margin-top: 14px;
+ }
+    .inner {
+        margin: 20px auto;
+        grid-template-columns: repeat(3, 120px);
+        grid-template-rows: repeat(3, 120px);
+    }
+
+    .box {
+        font-size: 24px;
+    }
+
+    .winner {
+        font-size: 1.7rem;
+    }
+
+    .reset-btn {
+        font-size: 1rem;
+        padding: 4px 10px;
+    }
+     .footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     z-index: 100;
+ }
+}
+
+@media (max-width: 400px) {
+    .inner {
+        margin: 30px auto;
+        grid-template-columns: repeat(3, 70px);
+        grid-template-rows: repeat(3, 70px);
+    }
+
+    .reset-btn,
+    .new-game {
+        margin: 21px 3px;
+    }
+}
+
+@media (max-width: 386px) {
+    .dark-mode-btn {
+        position: fixed;
+        top: 15px;
+        right: 12px;
+        padding: 5px 8px;
+        font-size: 0.8rem;
+        border-radius: 8px;
+        background: black;
+    }
+}
