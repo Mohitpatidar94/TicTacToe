@@ -17,7 +17,7 @@ Challenge your friends, keep score, and enjoy dark mode! 🌗
 
 ## 🖥️ Preview
 
-![Tic Tac Toe Screenshot](screenshot.png)
+![Tic Tac Toe Screenshot](https://github.com/Mohitpatidar94/TicTacToe/blob/main/12219f9c598a438fb2c39b03c78f32e3%5B1%5D.JPG)
 
 ---
 
