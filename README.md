@@ -46,7 +46,7 @@ Challenge your friends, keep score, and enjoy dark mode! 🌗
 
 | Light Mode ☀️ | Dark Mode 🌙 |
 |:-------------:|:-----------:|
-| ![Light](light.png) | ![Dark](dark.png) |
+| ![Light](light.png) | ![Dark](https://github.com/Mohitpatidar94/TicTacToe/blob/main/20ac33eccc1e4206905f31bf7f6f7785%5B1%5D.JPG) |
 
 ---
 
