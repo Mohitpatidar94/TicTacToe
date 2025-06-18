@@ -52,7 +52,7 @@ Challenge your friends, keep score, and enjoy dark mode! 🌗
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Your Name](https://github.com/mohitpatidar94)
 
 ---
 
